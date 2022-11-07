@@ -1,0 +1,4 @@
+local_repository(
+    name = "fancy_text",
+    path = "/Users/beibeili/Documents/fancy-text",
+)
